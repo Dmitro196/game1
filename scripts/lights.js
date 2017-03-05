@@ -16,7 +16,7 @@ function Lights(sSelector)
 	
 	l.startgame=function()
 	{
-		for(j=0; j< 1; j++)
+		for(j=0; j< 20; j++)
 	{
 	var rnd=(Math.floor(Math.random() * (16 - 0) + 0));
 	console.log(rnd);
